@@ -1,0 +1,85 @@
+.about-banner
+{
+    background-image: url('../relatedblogimage/Frame\ 5.png');
+    object-fit: cover;
+    min-height: 172px;
+}
+.about-banner h1
+{
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 55.67px;
+    font-family: 'Inter', sans-serif;
+}
+.related-image img
+{
+    width: 100%;
+}
+.related-pro-text h1
+{
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36.55px;
+}
+.related-pro-text strong
+{
+    color: #9D9C9C;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20.26px;
+}
+.related-pro-details p
+{
+    color: #9D9C9C;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+.related-explain p
+{
+    color: #9D9C9C;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 36px;
+    margin-top: 40px;
+}
+.question
+{
+    color: #666;
+    font-weight: 600;
+}
+.related-card-title h1
+{
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+}
+.divider
+{
+    height: 4px;
+    width: 100px;
+    background: linear-gradient(180deg, rgba(241,137,30,1) 0%, rgba(218,78,33,1) 100%);
+}
+.card-body h1
+{
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 25px;
+}
+.card-body p
+{
+    color: #9D9C9C;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
